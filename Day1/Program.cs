@@ -10,8 +10,9 @@ namespace Day1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello!");ㄴ
+            Console.WriteLine("Hello!");
             Console.WriteLine("Hello!");
         }
     }
 }
+ㄴ
